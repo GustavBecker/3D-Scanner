@@ -1,4 +1,4 @@
-# The ultimate hobbyist 3D Scanner!
+# The Ultimate hobbyist 3D Scanner!
 
 An automated 3D scanning rig that rotates an object and tilts a camera to capture perfectly spaced photos for 3D modeling.
 
