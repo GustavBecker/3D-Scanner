@@ -16,6 +16,7 @@ I wanted to get into 3D photogrammetry, but taking consistent photos by hand is 
 A local Python script handles the timing: it rotates the object, stops, takes a photo, logs the position data, and automatically tilts upward by 10 degrees after every full rotation. The final image dataset is then transferred to a laptop for processing into a 3D mesh.
 
 <img width="1920" height="813" alt="Main_2026-May-17_09-35-31PM-000_CustomizedView7972073945" src="https://github.com/user-attachments/assets/45495c2e-a5fe-482f-88ef-36d4cd3e3950" />
+<img width="939" height="1109" alt="Main_2026-May-17_10-34-03PM-000_CustomizedView39547607428" src="https://github.com/user-attachments/assets/42e799c2-dcc1-4a1f-b6a6-0aea04cfe321" />
 <img width="1225" height="1152" alt="Wiring" src="https://github.com/user-attachments/assets/fff88a7e-a2a5-43f0-b776-09bfcb4f21ef" />
 <img width="912" height="507" alt="Screenshot 2026-05-18 000307" src="https://github.com/user-attachments/assets/4c44e772-4671-4d3c-a943-491b22cc4d31" />
 
