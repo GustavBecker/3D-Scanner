@@ -37,6 +37,7 @@ A local Python script handles the timing: it rotates the object, stops, takes a 
 
 <img width="1920" height="813" alt="Main_2026-May-17_09-35-31PM-000_CustomizedView7972073945" src="https://github.com/user-attachments/assets/45495c2e-a5fe-482f-88ef-36d4cd3e3950" />
 <img width="939" height="1109" alt="Main_2026-May-17_10-34-03PM-000_CustomizedView39547607428" src="https://github.com/user-attachments/assets/42e799c2-dcc1-4a1f-b6a6-0aea04cfe321" />
-<img width="1225" height="1152" alt="Wiring" src="https://github.com/user-attachments/assets/fff88a7e-a2a5-43f0-b776-09bfcb4f21ef" />
+<img width="1225" height="1152" alt="Wiring" src="https://github.com/user-attachments/assets/9df60b1c-7f8b-48d2-91af-191cce53ee72" />
+
 
 
