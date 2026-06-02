@@ -39,8 +39,10 @@ The xy-3606 12v to 5v 5A buck converter isn't on the model photo since there are
 | 8mm Dowel | 1 | $3.50 | R57.00 | [Buy Link](https://www.temu.com/za/10pcs-round-bamboo-wedges-smooth-outer-surface-0-32-inch-diameter-11-8-inch-length-bamboo-material-for-craft-making-g-606593060017181.html?_oak_mp_inf=EJ2o9p6X9okBGiA3OGY4YWNjZWEzOWE0MGYzYmNlYmNjNjk3ODExN2I4YiDl3bfY4zM%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F36703d7b-79e9-4000-8291-2d1450da0583.jpg&spec_gallery_id=39463755077&refer_page_sn=10009&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=NTAwMA&_oak_gallery_order=1971058774%2C1356513867%2C1839366597%2C1411954733%2C1990560405%2C502438937%2C1988757095%2C360500203%2C368381517%2C1282413582&search_key=dowel%208mm&refer_page_el_sn=200049&ab_scene=1&enable_vqr=0&_x_sessn_id=46kooalag4&refer_page_name=search_result&refer_page_id=10009_1779107230915_x7jnuj86sl) |
 | **TOTAL** | | **$178.40** | **R2 908.00** | |
 
-<img width="1920" height="813" alt="Main_2026-May-17_09-35-31PM-000_CustomizedView7972073945" src="https://github.com/user-attachments/assets/45495c2e-a5fe-482f-88ef-36d4cd3e3950" />
-<img width="939" height="1109" alt="Main_2026-May-17_10-34-03PM-000_CustomizedView39547607428" src="https://github.com/user-attachments/assets/42e799c2-dcc1-4a1f-b6a6-0aea04cfe321" />
+<img width="1080" height="1080" alt="Main_2026-Jun-02_05-52-33PM-000_CustomizedView12948763466" src="https://github.com/user-attachments/assets/7f9c9ba4-a582-408f-a8c6-c1458a97d7e3" />
+<img width="1080" height="1080" alt="Main_2026-Jun-02_05-53-24PM-000_CustomizedView17463541007" src="https://github.com/user-attachments/assets/4b624ea9-a4df-40e0-9106-d6b98c08ddeb" />
+<img width="1080" height="1080" alt="Main_2026-Jun-02_05-54-38PM-000_CustomizedView38863175261" src="https://github.com/user-attachments/assets/974fc7bd-fb7b-4432-80f6-668a89caf1e0" />
+
 <img width="1225" height="1152" alt="Wiring" src="https://github.com/user-attachments/assets/9df60b1c-7f8b-48d2-91af-191cce53ee72" />
 
 
