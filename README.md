@@ -11,10 +11,10 @@ I wanted to get into 3D photogrammetry, but taking consistent photos by hand is 
 * **Brain to Muscle:** High-torque TB6600 controllers drive the motors smoothly.
 * **Capture:** A Raspberry Pi Camera Module 3 snaps crisp photos automatically right after the motors stop moving to avoid any blur.
 
-A local Python script handles the timing: it rotates the object, stops, takes a photo, logs the position data, and automatically tilts upward by 10 degrees after every full rotation. The final image dataset is then transferred to a laptop for processing into a 3D mesh. I will use MeshRoom software on my laptop.
+A local Python script handles the timing: I have 2 stepper motors. motor1 rotates the object in the horizontal axis, stops, takes a photo, logs the position data. After a full rotation motor2 tilts the camera angle up by 10 degrees. The final image dataset is then transferred to a laptop for processing into a 3D mesh. I will use MeshRoom software on my laptop.
 
 ## How To Build
-All the parts seen on the render that are not bought will be 3d printed. The bearing will be press fitted and the steppers will be help in place with M3 screws. The Pi Camera will be held in place with M2 screws and their heated inserts.
+All the parts seen on the render that are not bought will be 3d printed. The bearings will be press fitted and the steppers will be held in place with M3 screws and heated inserts. The Pi Camera will be held in place with M2 screws and their heated inserts.
 
 ## Note
 The xy-3606 12v to 5v 5A buck converter isn't on the model photo since there are no CAD models available to download for this module.
