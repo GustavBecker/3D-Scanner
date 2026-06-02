@@ -16,6 +16,8 @@ A local Python script handles the timing: it rotates the object, stops, takes a 
 ## How To Build
 All the parts seen on the render that are not bought will be 3d printed. The bearing will be press fitted and the steppers will be help in place with M3 screws. The Pi Camera will be held in place with M2 screws and their heated inserts.
 
+## Note
+The xy-3606 12v to 5v 5A buck converter isn't on the model photo since there are no CAD models available to download for this module.
 
 ### Bill of Materials (BOM)
 
